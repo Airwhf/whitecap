@@ -158,3 +158,8 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+<<<<<<< HEAD
+data/MOD09CMG.A2025006.061.2025008100334.hdf
+*.nc
+=======
+>>>>>>> parent of 2a3a94f (Updated)
